@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fiona</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate web developer and a data science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fionaharia&label=Profile%20views&color=0e75b6&style=flat" alt="fionaharia" /> </p>
 
